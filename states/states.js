@@ -1,0 +1,4 @@
+const states = {
+  STARTMODE: '_STARTMODE',
+  CONVERSATION_MODE: '_CONVERSATION_MODE'
+}
